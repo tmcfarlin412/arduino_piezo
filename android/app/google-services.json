@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851132837008",
+    "firebase_url": "https://arduino-radon.firebaseio.com",
+    "project_id": "arduino-radon",
+    "storage_bucket": "arduino-radon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851132837008:android:a29c2d6039172d0fe8bc15",
+        "android_client_info": {
+          "package_name": "com.lamptom.arduino_piezo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851132837008-tnoicb0uo7ta3d783stij0jiof860tpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6u9siikIsqNz9RThgiURacFf_uVSUwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851132837008-tnoicb0uo7ta3d783stij0jiof860tpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
